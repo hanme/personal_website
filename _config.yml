@@ -22,7 +22,7 @@ repository               : "hanme/personal_website"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Johannes Mehrer"
   pronouns         : # example: "she/her"
   bio              : "Postdoctoral researcher in computational neuroscience at EPFL's NeuroAI Lab. I study brain-like computation using deep neural networks and model-guided causal interventions."

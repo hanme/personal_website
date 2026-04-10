@@ -15,7 +15,7 @@ var addressPoints = [
     8.047635
   ],
   [
-    "TopoLM: brain-like spatio-functional organization in a topographic language model<br />Workshop on Topographic Deep Neural Network Models, Cognitive Computational Neuroscience (CCN) Conference; CCN 2025",
+    "TopoLM: brain-like spatio-functional organization in a topographic language model<br />Workshop on Topographic Deep Neural Network Models, CCN Conference; CCN 2025",
     -22.5282571,
     17.0424462
   ],

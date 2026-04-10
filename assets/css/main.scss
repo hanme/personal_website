@@ -45,17 +45,13 @@
 /* Custom overrides */
 
 /* Remove hover underline and pointer cursor from non-linked publication/talk titles */
-.archive__item-title {
+h2.nolink-title {
   cursor: default;
+  text-decoration: none !important;
   &:hover {
-    text-decoration: none;
+    text-decoration: none !important;
   }
-}
-
-/* Keep normal link appearance for Paper links inside titles */
-.archive__item-title a {
-  cursor: pointer;
-  &:hover {
-    text-decoration: underline;
+  * {
+    text-decoration: none !important;
   }
 }

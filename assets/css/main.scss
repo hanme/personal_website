@@ -54,4 +54,11 @@ h2.nolink-title {
 /* Underline publication category section headings */
 h2.publication-category-title {
   text-decoration: underline;
+  margin-top: 2.5em;
+  margin-bottom: 0.25em;
+}
+
+/* Remove excess top margin from the very first section heading on a page */
+h2.publication-category-title:first-of-type {
+  margin-top: 0;
 }

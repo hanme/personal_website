@@ -4,6 +4,6 @@ collection: talks
 type: "Invited Talk"
 permalink: /talks/2025-topolm-giessen
 venue: "Workshop on Large Language Models in Brain Research, Giessen University"
-date: 2025-01-02
+date: 2025-09-01
 location: "Giessen, Germany"
 ---

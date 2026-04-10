@@ -15,7 +15,8 @@ author_profile: true
 
 <h2 class="publication-category-title">Invited Talks</h2>
 
-{% for post in site.talks reversed %}
+{% assign sorted_talks = site.talks | sort: "date" | reverse %}
+{% for post in sorted_talks %}
   {% include archive-single-talk-nolink.html %}
 {% endfor %}
 

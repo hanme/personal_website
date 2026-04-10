@@ -1,0 +1,29 @@
+---
+layout: archive
+title: "Teaching, Talks, & Press"
+permalink: /teaching-talks-press/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Teaching</h2>
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Invited Talks</h2>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>Press</h2>
+
+<ul>
+  <li>
+    <strong>2025</strong> — Interview with Swiss national radio RTS on ICLR 2025 paper "TopoLM":<br>
+    <a href="https://www.rts.ch/audio-podcast/2025/audio/topolm-une-ia-de-langage-qui-comprend-structure-et-fonction-du-cerveau-28864016.html">"TopoLM: une IA de langage qui comprend structure et fonction du cerveau"</a> (French)
+  </li>
+</ul>

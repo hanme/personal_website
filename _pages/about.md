@@ -11,15 +11,15 @@ I am a postdoctoral researcher at [EPFL's NeuroAI Lab](https://www.epfl.ch/labs/
 
 A central theme of my work is the development of **model-guided approaches to neuroscience** — using computational models not only to predict, but to actively steer neural and behavioral outcomes. This includes work on model-guided microstimulation in the primate visual system, topographic organization in language models, and ecologically valid training datasets for vision models.
 
-I received my PhD from the University of Cambridge (2015–2019), supported by a Cambridge Trust Vice-Chancellor's Award, and subsequently led a data science team at weclapp SE (2020–2022) before joining EPFL in 2023.
+## Short CV
 
-## Research Interests
-
-- Brain-like computation in deep neural networks
-- Model-guided causal interventions in neural systems
-- Topographic organization of sensory cortex
-- Ecologically valid models of vision and language
-- Computational approaches to neurology and psychiatry
+| | |
+|---|---|
+| **B.A.** Psychology & Neuroscience | Hamburg University & Temple University Philadelphia, 2009–2013 |
+| **M.Sc.** Clinical and Cognitive Neuroscience | Maastricht University, 2013–2015 |
+| **Ph.D.** Computational Neuroscience | University of Cambridge, 2015–2019<br>Supervisors: [Tim Kietzmann](https://www.kietzmannlab.org/) & [Nikolaus Kriegeskorte](https://kriegeskortelab.zuckermaninstitute.columbia.edu/) |
+| **Lead Data Scientist** | weclapp SE, Germany, 2020–2022 |
+| **Postdoctoral Researcher** | EPFL NeuroAI Lab, 2023–present |
 
 ## News
 

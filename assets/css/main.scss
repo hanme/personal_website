@@ -44,14 +44,9 @@
 
 /* Custom overrides */
 
-/* Remove hover underline and pointer cursor from non-linked publication/talk titles */
+/* Remove all hover effects from non-linked publication/talk titles */
 h2.nolink-title {
+  pointer-events: none;
   cursor: default;
   text-decoration: none !important;
-  &:hover {
-    text-decoration: none !important;
-  }
-  * {
-    text-decoration: none !important;
-  }
 }

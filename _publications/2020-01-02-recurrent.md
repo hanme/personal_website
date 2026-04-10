@@ -6,5 +6,5 @@ permalink: /publication/2020-recurrent
 date: 2020-01-01
 venue: 'PLOS Computational Biology'
 paperurl: 'https://doi.org/10.1371/journal.pcbi.1008215'
-citation: 'Spoerer, Kietzmann, <strong>Mehrer</strong>, Charest, Kriegeskorte. (2020). <i>PLOS Computational Biology</i>.'
+authors: 'Spoerer, Kietzmann, <strong>Mehrer</strong>, Charest, Kriegeskorte'
 ---

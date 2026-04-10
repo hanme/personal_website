@@ -12,11 +12,11 @@ I am a postdoctoral researcher at [EPFL's NeuroAI Lab](https://www.epfl.ch/labs/
 ## Short CV
 
 - **Postdoctoral Researcher**, EPFL NeuroAI Lab, Lausanne, Switzerland, 2023–present
-- **Lead Data Scientist**, weclapp SE, Germany, 2020–2022
-- **Ph.D.** Computational Neuroscience, University of Cambridge, 2015–2019  
+- **Lead Data Scientist**, weclapp SE, Frankfurt, Germany, 2020–2022
+- **Ph.D.** Computational Neuroscience, University of Cambridge, Cambridge, UK, 2015–2019  
   Supervisors: [Tim Kietzmann](https://www.kietzmannlab.org/) & [Nikolaus Kriegeskorte](https://kriegeskortelab.zuckermaninstitute.columbia.edu/)
-- **M.Sc.** Clinical and Cognitive Neuroscience, Maastricht University, 2013–2015
-- **B.A.** Psychology & Neuroscience, Hamburg University & Temple University Philadelphia, 2009–2013
+- **M.Sc.** Clinical and Cognitive Neuroscience, Maastricht University, Maastricht, Netherlands, 2013–2015
+- **B.A.** Psychology & Neuroscience, Hamburg University, Hamburg, Germany & Temple University, Philadelphia, US, 2009–2013
 
 ## News
 

@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Johannes Mehrer"
   pronouns         : # example: "she/her"
-  bio              : "Postdoctoral researcher at EPFL's NeuroAI Lab. I study neural computation using artificial neural networks and model-guided causal interventions."
+  bio              :
   location         :
   employer         :
   uri              : "https://people.epfl.ch/johannes.mehrer"

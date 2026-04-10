@@ -50,3 +50,8 @@ h2.nolink-title {
   cursor: default;
   text-decoration: none !important;
 }
+
+/* Underline publication category section headings */
+h2.publication-category-title {
+  text-decoration: underline;
+}

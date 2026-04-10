@@ -54,11 +54,19 @@ h2.nolink-title {
 /* Underline publication category section headings */
 h2.publication-category-title {
   text-decoration: underline;
-  margin-top: 2.5em;
-  margin-bottom: 0.25em;
+  margin-top: 4em;
+  margin-bottom: 0;
 }
 
 /* Remove excess top margin from the very first section heading on a page */
 h2.publication-category-title:first-of-type {
   margin-top: 0;
+}
+
+/* Tighten gap between a section heading and its first list item */
+h2.publication-category-title + div,
+h2.publication-category-title + ul,
+h2.publication-category-title + article {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }

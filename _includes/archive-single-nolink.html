@@ -6,6 +6,8 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign abs_id = post.title | slugify %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
@@ -17,8 +19,12 @@
       {%- if post.venue %}<i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{%- endif -%}
       {%- if post.paperurl %}, <a href="{{ post.paperurl }}">Paper</a>{%- endif -%}
       {%- if post.extralinks %}{{ post.extralinks }}{%- endif -%}
-      {%- if post.abstract %}, <details style="display:inline;"><summary style="display:inline;cursor:pointer;">Abstract</summary><p style="margin-top:0.5em;">{{ post.abstract }}</p></details>{%- endif %}
+      {%- if post.abstract %}, <a href="javascript:void(0);" onclick="var el=document.getElementById('abs-{{ abs_id }}');el.style.display=el.style.display==='block'?'none':'block';">Abstract</a>{%- endif %}
     </p>
+
+    {% if post.abstract %}
+    <p id="abs-{{ abs_id }}" style="display:none;margin-top:0.2em;">{{ post.abstract }}</p>
+    {% endif %}
 
   </article>
 </div>

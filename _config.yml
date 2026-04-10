@@ -26,8 +26,8 @@ author:
   name             : "Johannes Mehrer"
   pronouns         : # example: "she/her"
   bio              : "Postdoctoral researcher in computational neuroscience at EPFL's NeuroAI Lab. I study brain-like computation using deep neural networks and model-guided causal interventions."
-  location         : "EPFL, Lausanne, Switzerland"
-  employer         : "EPFL"
+  location         :
+  employer         :
   uri              : "https://people.epfl.ch/johannes.mehrer"
   email            : "johannes.mehrer@epfl.ch"
 
@@ -83,12 +83,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Peer-Reviewed Journal Articles'
   conferences:
-    title: 'Conference Papers'
+    title: 'Peer-Reviewed Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

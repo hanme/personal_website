@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom overrides */
+
+/* Remove hover underline and pointer cursor from non-linked publication/talk titles */
+.archive__item-title {
+  cursor: default;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+/* Keep normal link appearance for Paper links inside titles */
+.archive__item-title a {
+  cursor: pointer;
+  &:hover {
+    text-decoration: underline;
+  }
+}

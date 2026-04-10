@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at [EPFL's NeuroAI Lab](https://www.epfl.ch/labs/schrimpflab/) headed by [Martin Schrimpf](https://mschrimpf.com/). My research sits at the intersection of computational neuroscience and artificial intelligence: I build and evaluate deep neural network models of the brain and behavior, and use these models to design targeted causal interventions in biological neural systems.
+I am a postdoctoral researcher at [EPFL's NeuroAI Lab](https://www.epfl.ch/labs/schrimpflab/) headed by [Martin Schrimpf](https://mschrimpf.com/). My research sits at the intersection of neuroscience and machine learning: I build and evaluate artificial neural network models of the brain and behavior, and use these models to design targeted causal interventions in biological neural systems.
 
 ## Short CV
 

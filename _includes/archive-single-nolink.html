@@ -15,7 +15,8 @@
 
     <p style="margin-top:0.2em;">
       {% if post.venue %}<i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{% endif %}
-      {% if post.paperurl %}&nbsp;&nbsp;<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+      {% if post.paperurl %}, <a href="{{ post.paperurl }}">Paper</a>{% endif %}
+      {% if post.extralinks %}{{ post.extralinks }}{% endif %}
     </p>
 
   </article>

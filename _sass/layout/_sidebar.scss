@@ -140,14 +140,6 @@
    Author profile and links
    ========================================================================== */
 
-.author__profile {
-  @include breakpoint($large) {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-end;
-  }
-}
-
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -157,8 +149,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;
-    align-self: flex-start;
+    width: auto;
     height: auto;
   }
 
@@ -244,6 +235,7 @@
   @include breakpoint($large) {
     display: block;
     width: 75%;
+    margin-left: auto;
     margin-top: 0.75em;
   }
 

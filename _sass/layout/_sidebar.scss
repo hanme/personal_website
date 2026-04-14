@@ -234,9 +234,9 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 62%;
+    width: 75%;
     margin-left: auto;
-    margin-top: 0.75em;
+    margin-top: 2em;
   }
 
   button {

@@ -44,6 +44,16 @@
 
 /* Custom overrides */
 
+/* Mute sidebar social links to blend with background */
+.author__urls-wrapper {
+  opacity: 0.45;
+
+  &:hover {
+    opacity: 1;
+    transition: opacity 0.2s ease;
+  }
+}
+
 /* Push nav links (Publications, CV, …) further right from site title */
 .masthead__menu-item--lg {
   padding-right: 5em;

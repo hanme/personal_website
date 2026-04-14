@@ -44,15 +44,17 @@
 
 /* Custom overrides */
 
-/* Mute footer sitemap/copyright to blend with background */
-.page__footer-follow,
+/* Mute footer (Sitemap link + copyright) to blend with background */
+.page__footer footer > a,
 .page__footer-copyright {
-  opacity: 0.45;
+  color: rgba(255, 255, 255, 0.4);
 
-  &:hover {
-    opacity: 1;
-    transition: opacity 0.2s ease;
+  a {
+    color: rgba(255, 255, 255, 0.4);
+    &:hover { color: rgba(255, 255, 255, 1); }
   }
+
+  &:hover { color: rgba(255, 255, 255, 1); }
 }
 
 /* Push nav links (Publications, CV, …) further right from site title */

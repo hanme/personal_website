@@ -234,8 +234,6 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 75%;
-    margin-left: auto;
     margin-top: 2em;
   }
 

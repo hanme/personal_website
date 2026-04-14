@@ -44,8 +44,9 @@
 
 /* Custom overrides */
 
-/* Mute sidebar social links to blend with background */
-.author__urls-wrapper {
+/* Mute footer sitemap/copyright to blend with background */
+.page__footer-follow,
+.page__footer-copyright {
   opacity: 0.45;
 
   &:hover {

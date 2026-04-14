@@ -9,10 +9,10 @@ author_profile: true
 
 <h2>Pages</h2>
 <ul>
-  <li><a href="{{ base_path }}/">Home</a></li>
-  <li><a href="{{ base_path }}/publications/">Publications</a></li>
-  <li><a href="{{ base_path }}/teaching-talks-press/">Teaching, Talks, &amp; Press</a></li>
-  <li><a href="{{ base_path }}/cv/">CV</a></li>
+  <li><a href="/">Home</a></li>
+  <li><a href="/publications/">Publications</a></li>
+  <li><a href="/teaching-talks-press/">Teaching, Talks, &amp; Press</a></li>
+  <li><a href="/cv/">CV</a></li>
 </ul>
 
 <h2>Publications</h2>

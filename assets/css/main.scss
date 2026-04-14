@@ -44,6 +44,11 @@
 
 /* Custom overrides */
 
+/* Push nav links (Publications, CV, …) further right from site title */
+.masthead__menu-item--lg {
+  padding-right: 5em;
+}
+
 /* Remove all hover effects from non-linked publication/talk titles */
 h2.nolink-title {
   pointer-events: none;

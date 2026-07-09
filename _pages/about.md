@@ -20,6 +20,10 @@ I am a postdoctoral researcher at [EPFL's NeuroAI Lab](https://www.epfl.ch/labs/
 
 ## News
 
+**July 2026** — ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770) accepted as a spotlight (top-10%) extended abstract at CCN 2026.
+
+**June 2026** — New preprint: ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770). See the [Bluesky thread](https://bsky.app/profile/bkhmsi.bsky.social/post/3mofry2gck22t) for a summary.
+
 **April 2026** — Two papers accepted at ICLR 2026: [model-guided microstimulation](https://openreview.net/forum?id=S4B7Iq7S3C) and [inducing dyslexia in vision-language models](https://openreview.net/forum?id=AQhpxQ1xfa).
 
 **August 2025** — Co-organized workshop on ["Modeling the Physical Brain: Spatial Organization and Biophysical Constraints"](https://neuroailab.github.io/modeling-the-physical-brain/) at CCN 2025.

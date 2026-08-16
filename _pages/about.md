@@ -20,6 +20,8 @@ I am a postdoctoral researcher at [EPFL's NeuroAI Lab](https://www.epfl.ch/labs/
 
 ## News
 
+**August 2026** — Gave a [talk](https://youtu.be/NtKWVua_dLU?t=4275) on "Toward ANN brain models for the clinic" at the CCN 2026 community event ["So You Have a Highly Predictive Model, Now What?"](https://2026.ccneuro.org/community-event-highly-predictive-model/) at NYU.
+
 **July 2026** — ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770) accepted as a spotlight (top-10%) extended abstract at CCN 2026.
 
 **June 2026** — New preprint: ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770). See the [Bluesky thread](https://bsky.app/profile/bkhmsi.bsky.social/post/3mofry2gck22t) for a summary.

@@ -20,14 +20,14 @@ I am a postdoctoral researcher at [EPFL's NeuroAI Lab](https://www.epfl.ch/labs/
 
 ## News
 
-**August 2026** — Gave a [talk](https://youtu.be/NtKWVua_dLU?t=4275) on "Toward ANN brain models for the clinic" at the CCN 2026 community event ["So You Have a Highly Predictive Model, Now What?"](https://2026.ccneuro.org/community-event-highly-predictive-model/) at NYU.
+**August 2026** - Talk on "Toward ANN brain models for the clinic" at the CCN 2026 community event ["So You Have a Highly Predictive Model, Now What?"](https://2026.ccneuro.org/community-event-highly-predictive-model/) at NYU. [[video](https://youtu.be/NtKWVua_dLU?t=4275)]
 
-**July 2026** — ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770) accepted as a spotlight (top-10%) extended abstract at CCN 2026.
+**July 2026** - ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770) accepted as a spotlight (top-10%) extended abstract at CCN 2026.
 
-**June 2026** — New preprint: ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770). See the [Bluesky thread](https://bsky.app/profile/bkhmsi.bsky.social/post/3mofry2gck22t) for a summary.
+**June 2026** - New preprint: ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770). See the [Bluesky thread](https://bsky.app/profile/bkhmsi.bsky.social/post/3mofry2gck22t) for a summary.
 
-**April 2026** — Two papers accepted at ICLR 2026: [model-guided microstimulation](https://openreview.net/forum?id=S4B7Iq7S3C) and [inducing dyslexia in vision-language models](https://openreview.net/forum?id=AQhpxQ1xfa).
+**April 2026** - Two papers accepted at ICLR 2026: [model-guided microstimulation](https://openreview.net/forum?id=S4B7Iq7S3C) and [inducing dyslexia in vision-language models](https://openreview.net/forum?id=AQhpxQ1xfa).
 
-**August 2025** — Co-organized workshop on ["Modeling the Physical Brain: Spatial Organization and Biophysical Constraints"](https://neuroailab.github.io/modeling-the-physical-brain/) at CCN 2025.
+**August 2025** - Co-organized workshop on ["Modeling the Physical Brain: Spatial Organization and Biophysical Constraints"](https://neuroailab.github.io/modeling-the-physical-brain/) at CCN 2025.
 
-**April 2025** — [TopoLM](https://arxiv.org/abs/2410.11516) selected as a top-2% oral paper at ICLR 2025. Featured in an [interview with Swiss national radio RTS](https://www.rts.ch/audio-podcast/2025/audio/topolm-une-ia-de-langage-qui-comprend-structure-et-fonction-du-cerveau-28864016.html).
+**April 2025** - [TopoLM](https://arxiv.org/abs/2410.11516) selected as a top-2% oral paper at ICLR 2025. Featured in an [interview with Swiss national radio RTS](https://www.rts.ch/audio-podcast/2025/audio/topolm-une-ia-de-langage-qui-comprend-structure-et-fonction-du-cerveau-28864016.html).

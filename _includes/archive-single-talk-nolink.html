@@ -9,10 +9,10 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <h2 class="archive__item-title nolink-title" itemprop="headline">{{ title }}</h2>
+    <h2 class="archive__item-title nolink-title" itemprop="headline"><strong>{{ post.date | date: "%B %Y" }}</strong> - {{ title }}</h2>
 
     {% if post.venue %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.type }}, {{ post.venue }}, {{ post.location }}, {{ post.date | date: "%B %Y" }}</p>
+      <p class="archive__item-excerpt" itemprop="description">{{ post.type }}, {{ post.venue }}, {{ post.location }}</p>
     {% endif %}
 
   </article>

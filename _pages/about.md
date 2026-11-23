@@ -20,6 +20,12 @@ I am a postdoctoral researcher at [EPFL's NeuroAI Lab](https://www.epfl.ch/labs/
 
 ## News
 
+**November 2026** - Invited talk on "Model-Guided Microstimulation Steers Primate Visual Behavior" at the Jules-Gonin Ophthalmology Department, Lausanne University Hospital.
+
+**November 2026** - ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770) is now under revision following peer review at Nature Communications.
+
+**September 2026** - Invited talk (remote) on "Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model" at Daniel Yamins' Stanford NeuroAI Lab.
+
 **August 2026** - Talk on "Toward ANN brain models for the clinic" at the CCN 2026 community event ["So You Have a Highly Predictive Model, Now What?"](https://2026.ccneuro.org/community-event-highly-predictive-model/) at NYU. [[video](https://youtu.be/NtKWVua_dLU?t=4275)]
 
 **July 2026** - ["Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model"](https://doi.org/10.48550/arXiv.2606.09770) accepted as a spotlight (top-10%) extended abstract at CCN 2026.

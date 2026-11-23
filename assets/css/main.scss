@@ -85,3 +85,37 @@ h2.publication-category-title + article {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
+
+/* Talks page: date in a left column, title + details in a right column (no borders) */
+.talk-item {
+  display: flex;
+  align-items: baseline;
+  gap: 1.5em;
+}
+
+.talk-date {
+  flex: 0 0 9em;
+  font-family: $sans-serif-narrow;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+.talk-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+/* Phones: stack the date above the title */
+@media (max-width: 600px) {
+  .talk-item {
+    display: block;
+  }
+
+  .talk-date {
+    margin-top: 1em;
+  }
+
+  .talk-body .archive__item-title {
+    margin-top: 0.25em;
+  }
+}

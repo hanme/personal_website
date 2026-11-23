@@ -99,6 +99,7 @@ h2.publication-category-title + article {
   font-size: $type-size-4;  /* same size as the talk title (h2) */
   font-weight: bold;
   white-space: nowrap;
+  text-align: right;
 }
 
 .talk-body {
@@ -114,6 +115,7 @@ h2.publication-category-title + article {
 
   .talk-date {
     margin-top: 1em;
+    text-align: left;
   }
 
   .talk-body .archive__item-title {

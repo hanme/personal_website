@@ -94,8 +94,9 @@ h2.publication-category-title + article {
 }
 
 .talk-date {
-  flex: 0 0 9em;
+  flex: 0 0 8.5em;
   font-family: $sans-serif-narrow;
+  font-size: $type-size-4;  /* same size as the talk title (h2) */
   font-weight: bold;
   white-space: nowrap;
 }
